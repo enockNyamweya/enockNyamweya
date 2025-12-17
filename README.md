@@ -1,79 +1,86 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=33&pause=1000&color=blue&center=true&vCenter=true&width=600&lines=Hello+and+welcome,+I+am+Enock" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=33&pause=1000&color=blue&center=true&vCenter=true&width=600&lines=Hellooo,+I+am+Enock" alt="Typing SVG" />
+
+
 
 </div>
-
----
 
 <br/>
 
-I am a **Second Year Computer Science Student** at the **University of Pretoria**.
+I am a **Second Year Computer Science Student** at the **University of Pretoria**, focused on the science behind the software.
 
-My focus right now is bridging the gap between academic theory and real-world application. I am building a strong command of **C++** and **Java** for core logic, while utilizing **TypeScript**, **Node.js**, and **PostgreSQL** for backend development and data management.
+While I am still building my foundation, I am not just here to pass exams. I am obsessed with understanding **how computers think**—from memory management in **C++** to the data structures that power modern applications. I combine academic theory with practical experimentation in **Java**, **TypeScript**, and **Node.js**.
 
-**Current Focus & Interests:**
-* 🔭 **Technical:** Mastering Algorithms and Database design.
-* 🧠 **Concept Phase:** I am researching the architecture required for **Real-Time Voice Translation** and cloning—a project I aim to build in the near future.
-* ✍️ **The DanTide:** Documenting my journey and insights as I grow in the tech space.
+| 🔭 **Current Focus** | 🌱 **Exploring** | ⚡ **The Goal** |
+| :--- | :--- | :--- |
+| **Algorithms** &<br> **Data Structures** | **Voice AI Architecture**<br>& Real-time Translation | Building a **Personal Brand**<br> via *The DanTide* |
+
+<br/>
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Toolbox" width="30" height="30" /> &nbsp;My Toolbox
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Toolbox" width="35" height="35" /> &nbsp;The Stack
 
 <details>
-  <summary><b>Languages & Stack</b> (click to expand)</summary>
+  <summary><b>💻 Languages (The Logic)</b></summary>
   <br />
   <div align="left">
-    <img src="https://skillicons.dev/icons?i=cpp,java,ts,nodejs,postgres,python" />
+    <img src="https://skillicons.dev/icons?i=cpp,java,ts,js,python" />
   </div>
 </details>
 
 <details>
-  <summary><b>Dev Environment & Tools</b> (click to expand)</summary>
+  <summary><b>🌐 Backend & Data (The Engine)</b></summary>
   <br />
   <div align="left">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb" />
   </div>
 </details>
 
+<details>
+  <summary><b>🛠 Tools (The Environment)</b></summary>
+  <br />
+  <div align="left">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,bash" />
+  </div>
+</details>
+
+<br/>
+
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Megaphone.png" alt="Connect" width="30" height="30" /> &nbsp;Let's Connect!
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Connect" width="35" height="35" /> &nbsp;Initialize Connection
 
 <div align="center">
   <a href="mailto:danselnyamweya@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+    <img src="https://img.shields.io/badge/Email-Contact_Me-00E6CC?style=for-the-badge&logo=gmail&logoColor=black" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://linkedin.com/in/danselonserio">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-00E6CC?style=for-the-badge&logo=linkedin&logoColor=black" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://instagram.com/edarchiive">
-    <img src="https://skillicons.dev/icons?i=instagram" />
+    <img src="https://img.shields.io/badge/Instagram-Follow-00E6CC?style=for-the-badge&logo=instagram&logoColor=black" />
   </a>
 </div>
 
-<p align="center">Feel free to reach out regarding mentorship, internships, technical collaborations, or anything in-between.</p>
+<br/>
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Activity" width="30" height="30" /> &nbsp;My GitHub Activity
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activity/High%20Voltage.png" alt="Activity" width="35" height="35" /> &nbsp;The Data
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=enockNyamweya&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" />
-  
-  <br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enockNyamweya&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enockNyamweya&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=6" />
   
   <br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=enockNyamweya&theme=radical&hide_border=true&fire=F52C68&ring=F52C68&currStreakNum=F52C68&bg_color=0d1117" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=enockNyamweya&theme=tokyonight&hide_border=true&bg_color=00000000&fire=00E6CC&ring=00E6CC&currStreakNum=00E6CC" />
 </div>
 
-<br />
+<br/>
 
 <div align="center">
 <small>Note: The languages listed are based on my public code and don't indicate proficiency or experience.</small>

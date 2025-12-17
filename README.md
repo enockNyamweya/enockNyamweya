@@ -68,14 +68,11 @@ While I am still building my foundation, I am not just here to pass exams. I am 
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activity/High%20Voltage.png" alt="Activity" width="35" height="35" /> &nbsp;The Data
+### ⚡ The Data
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enockNyamweya&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=6" />
-  
-  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enockNyamweya&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=6" alt="Top Languages" />
 
-  <img src="https://streak-stats.demolab.com?user=enockNyamweya&theme=tokyonight&hide_border=true&bg_color=00000000&fire=00E6CC&ring=00E6CC&currStreakNum=00E6CC" />
 </div>
 
 <br/>

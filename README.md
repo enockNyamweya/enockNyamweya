@@ -2,15 +2,13 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=33&pause=1000&color=blue&center=true&vCenter=true&width=600&lines=Hellooo,+I+am+Enock" alt="Typing SVG" />
 
-
-
 </div>
 
 <br/>
 
 I am a **Second Year Computer Science Student** at the **University of Pretoria**, focused on the science behind the software.
 
-While I am still building my foundation, I am not just here to pass exams. I am obsessed with understanding **how computers think**—from memory management in **C++** to the data structures that power modern applications. I combine academic theory with practical experimentation in **Java**, **TypeScript**, and **Node.js**.
+While I am still building my foundation, I am not just here to pass exams. I am obsessed with understanding **how computers think**, from memory management in **C++** to the data structures that power modern applications. I combine academic theory with practical experimentation in **Java**, **TypeScript**, and **Node.js**.
 
 | 🔭 **Current Focus** | 🌱 **Exploring** | ⚡ **The Goal** |
 | :--- | :--- | :--- |
@@ -77,7 +75,7 @@ While I am still building my foundation, I am not just here to pass exams. I am 
   
   <br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=enockNyamweya&theme=tokyonight&hide_border=true&bg_color=00000000&fire=00E6CC&ring=00E6CC&currStreakNum=00E6CC" />
+  <img src="https://streak-stats.demolab.com?user=enockNyamweya&theme=tokyonight&hide_border=true&bg_color=00000000&fire=00E6CC&ring=00E6CC&currStreakNum=00E6CC" />
 </div>
 
 <br/>

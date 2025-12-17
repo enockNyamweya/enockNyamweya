@@ -55,7 +55,7 @@ My focus right now is bridging the gap between academic theory and real-world ap
   </a>
 </div>
 
-<p align="center">Feel free to reach out regarding mentorship, internships, technical collaborations, or everything in-between.</p>
+<p align="center">Feel free to reach out regarding mentorship, internships, technical collaborations, or anything in-between.</p>
 
 ---
 

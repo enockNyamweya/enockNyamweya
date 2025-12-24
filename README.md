@@ -8,7 +8,6 @@
 
 I am a **Second Year Computer Science Student** at the **University of Pretoria**, focused on the science behind the software.
 
-While I am still building my foundation, I am not just here to pass exams. I am obsessed with understanding **how computers think**, from memory management in **C++** to the data structures that power modern applications. I combine academic theory with practical experimentation in **Java**, **TypeScript**, and **Node.js**.
 
 | **Current Focus** |  **Exploring** |  **The Goal** |
 | :--- | :--- | :--- |

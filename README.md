@@ -6,7 +6,7 @@
 
 <br/>
 
-I am a **Second Year Computer Science Student** at the **University of Pretoria**, focused on the science behind the software.
+I am a **Second Year Computer Science Student** at the **University of Pretoria**.
 
 
 | **Current Focus** |  **Exploring** |  **The Goal** |

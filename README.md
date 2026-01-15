@@ -29,8 +29,8 @@ I'm Enock, a **Second Year Computer Science Student** at the **University of Pre
     <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,bash" />
   </div>
 </details>
----
 
+---
 ### Contact Details
 
 <div align="center">

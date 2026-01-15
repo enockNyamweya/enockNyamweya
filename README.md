@@ -1,6 +1,6 @@
 <br/>
 
-I'm Enock, a **Second Year Computer Science Student** at the **University of Pretoria**.
+I'm a **Second Year Computer Science Student** at the **University of Pretoria**.
 
 ---
 

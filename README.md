@@ -1,6 +1,6 @@
 <br/>
 
-I'm a **Second Year Computer Science Student** at the **University of Pretoria**.
+I'm a **Semi-Final CS Student** at the **University of Pretoria**.
 
 ---
 

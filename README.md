@@ -2,19 +2,14 @@
 
 I am a **Second Year Computer Science Student** at the **University of Pretoria**.
 
-
-| **Current Focus** |  **Exploring** |  **The Goal** |
-| :--- | :--- | :--- |
-| **Algorithms** &<br> **Data Structures** | **Voice AI Architecture**<br>& Real-time Translation | Building a **Personal Brand**<br> via *The DanTide* |
-
 <br/>
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Toolbox" width="35" height="35" /> &nbsp;The Stack
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Toolbox" width="35" height="35" /> &nbsp;My Current Stack
 
 <details>
-  <summary><b>💻 Languages (The Logic)</b></summary>
+  <summary><b> Languages </b></summary>
   <br />
   <div align="left">
     <img src="https://skillicons.dev/icons?i=cpp,java,ts,js,python" />
@@ -22,7 +17,7 @@ I am a **Second Year Computer Science Student** at the **University of Pretoria*
 </details>
 
 <details>
-  <summary><b>🌐 Backend & Data (The Engine)</b></summary>
+  <summary><b> Backend & Data </b></summary>
   <br />
   <div align="left">
     <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb" />
@@ -30,7 +25,7 @@ I am a **Second Year Computer Science Student** at the **University of Pretoria*
 </details>
 
 <details>
-  <summary><b>🛠 Tools (The Environment)</b></summary>
+  <summary><b> Tools </b></summary>
   <br />
   <div align="left">
     <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,bash" />

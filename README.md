@@ -1,12 +1,10 @@
 <br/>
 
-I am a **Second Year Computer Science Student** at the **University of Pretoria**.
-
-<br/>
+I'm Enock, a **Second Year Computer Science Student** at the **University of Pretoria**.
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Toolbox" width="35" height="35" /> &nbsp;My Current Stack
+### My Current Stack
 
 <details>
   <summary><b> Languages </b></summary>
@@ -36,7 +34,7 @@ I am a **Second Year Computer Science Student** at the **University of Pretoria*
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Connect" width="35" height="35" /> &nbsp;Initialize Connection
+### Contact Details
 
 <div align="center">
   <a href="mailto:danselnyamweya@gmail.com">
@@ -53,18 +51,3 @@ I am a **Second Year Computer Science Student** at the **University of Pretoria*
 </div>
 
 <br/>
-
----
-
-### ⚡ The Data
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enockNyamweya&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=6" alt="Top Languages" />
-
-</div>
-
-<br/>
-
-<div align="center">
-<small>Note: The languages listed are based on my public code and don't indicate proficiency or experience.</small>
-</div>

@@ -12,7 +12,7 @@
   <summary><b> Backend & Data </b></summary>
   <br />
   <div align="left">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,php,mysql" />
   </div>
 </details>
 

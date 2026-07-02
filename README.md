@@ -36,7 +36,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-00E6CC?style=for-the-badge&logo=linkedin&logoColor=black" />
   </a>
   &nbsp;
-  <a href="https://instagram.com/e.dansel">
+  <a href="https://instagram.com/enockdansel">
     <img src="https://img.shields.io/badge/Instagram-Follow-00E6CC?style=for-the-badge&logo=instagram&logoColor=black" />
   </a>
 </div>

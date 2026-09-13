@@ -1,25 +1,19 @@
-### My Current Stack
+# Hi, I'm Enock
 
-<details>
-  <summary><b> Languages </b></summary>
-  <br />
-  <div align="left">
-    <img src="https://skillicons.dev/icons?i=cpp,java,ts,js,python" />
-  </div>
-</details>
+Like you, I solve problems.
 
-<details>
-  <summary><b> Backend & Data </b></summary>
-  <br />
-  <div align="left">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,php,mysql" />
-  </div>
-</details>
+I don't care about language holy wars. My focus is on how things **_actually_** work; data flow, concurrency, and automation.
 
-<details>
-  <summary><b> Tools </b></summary>
-  <br />
-  <div align="left">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,bash" />
-  </div>
-</details>
+### Focus
+
+- **Systems:** Runtime behavior, concurrency, and clean architecture across any stack.
+- **Automation:** Multi-agent pipelines and guardrails that run reliably on their own.
+- **Data:** Practical schema design, fast queries, and algorithms built from first principles.
+
+### Tools
+
+- **Code:** C++, Python, Java, TypeScript, SQL, Bash
+- **Infrastructure:** Linux, Docker, PostgreSQL, MySQL, Git
+- **Hobby:** Babysitting AI agents until they behave
+
+## Bye

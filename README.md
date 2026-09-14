@@ -2,8 +2,6 @@
 
 Like you, I solve problems.
 
-I don't care about language holy wars. My focus is on how things **_actually_** work; data flow, concurrency, and automation.
-
 ### Focus
 
 - **Systems:** Runtime behavior, concurrency, and clean architecture across any stack.

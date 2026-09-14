@@ -13,5 +13,3 @@ Like you, I solve problems.
 - **Code:** C++, Python, Java, TypeScript, SQL, Bash
 - **Infrastructure:** Linux, Docker, PostgreSQL, MySQL, Git
 - **Hobby:** Babysitting AI agents until they behave
-
-## Bye
